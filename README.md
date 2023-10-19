@@ -1,9 +1,5 @@
 In this project, I made a crosswalk button identifier using Haar Cascades by manually collecting hundreds of samples, using a Haar Cascade Trainer GUI, and referring to various resources that I list below to help me set up my image classifiers. I then added cuda acceleration and reported results.
 
-My Youtube Link: https://www.youtube.com/watch?v=_SDN7dNdWJg
-
-Slides: https://docs.google.com/presentation/d/10J6PlTE6XnXadmw0pnQP6C1tOqoNkMiAhJyBqFEAqnc/edit?usp=sharing
-
 Project report included in files.
 
 
